@@ -1,0 +1,5 @@
+Benefios para programadores
+   Rapidez: como os processos são operados localmente, deixa de ser preciso contactar o servidor central para proceder a operações como um commit, log ou diff.
+   Autonomia: permite trabalhar em modo desconectado, em qualquer local, só sendo necessária uma conexão com a rede para troca de revisões com outros repositórios.
+   Ramos individuais: contrariamente aos chamados sistemas centralizados, combinar ramos não é uma obrigação para cada commit e antes uma decisão que depende do programador; o trabalho local faz-se num ramo individual que não tem interferência com os demais ramos, mesmo em processos de sincronização entre repositórios.
+   Facilidade na Fusão: os DVCS usam o rastreamento automático, o que facilita de forma significativa o processo de fusão.
